@@ -85,6 +85,80 @@
       ]
     },
     {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "_content/MudBlazor/MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rn8eNl+9uB529WfApYjM5fW3PddfCejXYcvfIgZsvkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 06 Jul 2024 18:06:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rn8eNl+9uB529WfApYjM5fW3PddfCejXYcvfIgZsvkk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "_content/MudBlazor/MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNWjaXK3LK0fumrRvkv1+QEnZZeFknI/3qKf6Wy++VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 06 Jul 2024 18:06:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNWjaXK3LK0fumrRvkv1+QEnZZeFknI/3qKf6Wy++VM="
+        }
+      ]
+    },
+    {
       "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
       "AssetFile": "css/bootstrap/bootstrap.min.css",
       "Selectors": [],

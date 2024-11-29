@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uZye4WeR/2eD61l68DlnvSo8Eg8aXDaxCpjSN02+CB4=",
+  "Hash": "U8spnrotI46pVkvWUSKtCv4rzMwGpJclmfx1WAZLg2M=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,59 @@
     {
       "Name": "BlazorApp\\wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "Identity": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxbtukvcmg",
+      "Integrity": "rn8eNl+9uB529WfApYjM5fW3PddfCejXYcvfIgZsvkk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wh0nb2cuo3",
+      "Integrity": "RNWjaXK3LK0fumrRvkv1+QEnZZeFknI/3qKf6Wy++VM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +77,13 @@
       "Integrity": "mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +98,13 @@
       "Integrity": "mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -101,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -143,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -164,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -185,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -206,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -227,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -248,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -269,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -290,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\site.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\favicon.ico",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -334,8 +376,82 @@
   ],
   "Endpoints": [
     {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rn8eNl+9uB529WfApYjM5fW3PddfCejXYcvfIgZsvkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 06 Jul 2024 18:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rn8eNl+9uB529WfApYjM5fW3PddfCejXYcvfIgZsvkk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\victo\\.nuget\\packages\\mudblazor\\6.21.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RNWjaXK3LK0fumrRvkv1+QEnZZeFknI/3qKf6Wy++VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 06 Jul 2024 18:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RNWjaXK3LK0fumrRvkv1+QEnZZeFknI/3qKf6Wy++VM="
+        }
+      ]
+    },
+    {
       "Route": "BlazorApp.0q33py4qzp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -380,7 +496,7 @@
     },
     {
       "Route": "BlazorApp.0q33py4qzp.styles.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -425,7 +541,7 @@
     },
     {
       "Route": "BlazorApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -462,7 +578,7 @@
     },
     {
       "Route": "BlazorApp.styles.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -499,7 +615,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -544,7 +660,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -581,7 +697,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -626,7 +742,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -663,7 +779,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -708,7 +824,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -745,7 +861,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -790,7 +906,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -827,7 +943,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -872,7 +988,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -917,7 +1033,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -954,7 +1070,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -999,7 +1115,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1036,7 +1152,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1073,7 +1189,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1118,7 +1234,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1155,7 +1271,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1192,7 +1308,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1237,7 +1353,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1274,7 +1390,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1319,7 +1435,7 @@
     },
     {
       "Route": "css/open-iconic/README.8h4oiah9s0.md",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1364,7 +1480,7 @@
     },
     {
       "Route": "css/open-iconic/README.md",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1401,7 +1517,7 @@
     },
     {
       "Route": "css/site.1fpfb6x0uo.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1446,7 +1562,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1483,7 +1599,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1528,7 +1644,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\AuthBlazorServerApp\\src\\BlazorApp\\BlazorApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\MudBlazor\\src\\BlazorApp\\BlazorApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
