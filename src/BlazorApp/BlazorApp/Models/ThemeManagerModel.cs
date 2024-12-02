@@ -1,4 +1,7 @@
-﻿namespace BlazorApp.Models
+﻿using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
+using MudBlazor;
+
+namespace BlazorApp.Models
 {
     public class ThemeManagerModel
     {

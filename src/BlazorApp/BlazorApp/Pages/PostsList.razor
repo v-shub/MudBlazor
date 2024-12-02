@@ -4,22 +4,28 @@
 @inject FamilyLifeContext context
 @attribute [Authorize(Roles ="Administrator,User")]
 
-<h2>Посты</h2>
-@foreach (var post in posts)
-{
-    <div class = "card" style="width: 40rem;">
-        <div class = "card-header">
-            @post.Header
-        </div>
-        <div class = "card-subtitle">
-            Создатель: @post.Creator.Username
-        </div>
-        <div class = "card-body">
-            @post.PostContent
-        </div>
-    </div>
-    <hr/>
-}
+<MudText Typo="Typo.h3" Align="Align.Center" GutterBottom="true">Посты</MudText>
+<MudGrid Class="mt-8">
+    @foreach (var post in posts){
+            <MudItem xs="12" sm="6" md="4">
+            <MudCard Elevation="25" Class="rounded-lg pb-4">
+                <MudCardHeader>
+                    <CardHeaderContent>
+                            <MudText Typo="Typo.h3" Align="Align.Center">@post.Header</MudText>
+                    </CardHeaderContent>
+                </MudCardHeader>
+                <MudCardContent>
+                    <div class="d-flex justify-center">
+                            <MudText Typo="Typo.h5" Class="ml-1 mt-5" Color="Color.Secondary">@post.Creator.Username</MudText>
+                    </div>
+                    <MudList Class="mx-auto mt-4" Style="width:300px;">
+                            @post.PostContent
+                    </MudList>
+                </MudCardContent>
+            </MudCard>
+        </MudItem>
+    }
+</MudGrid>
 
 @code {
     private List<Post> posts = new List<Post>();

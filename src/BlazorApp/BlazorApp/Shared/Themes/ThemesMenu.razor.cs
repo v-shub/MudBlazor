@@ -3,6 +3,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Components;
 using MudBlazor;
 using BlazorApp.Models;
+using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
+using System.Drawing;
+using BlazorApp.Shared.Auth;
+using Microsoft.AspNetCore.Components.Authorization;
 
 namespace BlazorApp.Shared.Themes;
 
@@ -20,7 +24,7 @@ public partial class ThemesMenu
 
     [EditorRequired][Parameter] public bool ThemingDrawerOpen { get; set; }
     [EditorRequired][Parameter] public EventCallback<bool> ThemingDrawerOpenChanged { get; set; }
-    [EditorRequired][Parameter] public ThemeManagerModel ThemeManager { get; set; }
+    [EditorRequired][Parameter] public ThemeManagerModel ThemeManager { get; set;}
     [EditorRequired][Parameter] public EventCallback<ThemeManagerModel> ThemeManagerChanged { get; set; }
 
     private async Task UpdateThemePrimaryColor(string color)
