@@ -20,14 +20,13 @@
         <MudIconButton Icon="@Icons.Material.Filled.Menu" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())"/>
         <MudSpacer/>
         <MudTooltip Arrow="true" Text="my github">
-            <MudIconButton Class="mx-3" Color="Color.Default" Icon="@Icons.Custom.Brands.GitHub" Link="PUT_YOUR_LINK" Target="_blank"/>
+            <MudIconButton Class="mx-3" Color="Color.Default" Icon="@Icons.Custom.Brands.GitHub" Href="https//:github.com/v-shub"/>
         </MudTooltip>
-        <MudLink Class="ml-3" Href="https://docs.microsoft.com/aspnet/" target="_blank">About</MudLink>
         <AuthorizeView>
             <Authorized>
                 <MudMenu AnchorOrigin="Origin.BottomRight" Class="ml-3" LockScroll="true" TransformOrigin="Origin.TopRight">
                     <ActivatorContent>
-                        <MudAvatar Image="@Icons.Custom.Brands.Gmail"/>
+                        <MudIcon Color="Color.Primary" Icon="@Icons.Custom.Uncategorized.Radioactive"/>
                     </ActivatorContent>
                     <ChildContent>
                         <div class="py-4" style="min-width: 220 px">
@@ -38,22 +37,6 @@
                                 Пользователь
                             </MudText>
                             <MudDivider Class="my-2"/>
-                            <MudMenuItem>
-                                <a href="/user/profile">
-                                    <div class="d-flex">
-                                        <MudIcon Class="mx-2" Icon="@Icons.Material.Filled.Person"/>
-                                        <MudText>Профиль</MudText>
-                                    </div>
-                                </a>
-                            </MudMenuItem>
-                            <MudMenuItem>
-                                <a href="/user/user-posts">
-                                    <div class="d-flex">
-                                        <MudIcon Class="mx-2" Icon="@Icons.Material.Filled.Savings"/>
-                                        <MudText>Ваши посты</MudText>
-                                    </div>
-                                </a>
-                            </MudMenuItem>
                             <MudMenuItem>
                                 <div class="mt-4 mx-4">
                                     <MudButton Color="Color.Default" FullWidth="true" OnClick="Logout"
@@ -74,8 +57,8 @@
 
     <MudDrawer Elevation="2" @bind-Open="_drawerOpen">
         <MudDrawerHeader Class="align-center d-flex justify-center pa-0">
-            <MudIcon Color="Color.Primary" Icon="@Icons.Custom.Brands.Linux" Size="Size.Large"/>
-            <MudText>Название сайта</MudText>
+            <MudIcon Color="Color.Primary" Icon="@Icons.Custom.Brands.MudBlazor" Size="Size.Large"/>
+            <MudText>Family Life</MudText>
         </MudDrawerHeader>
         <MudNavMenu>
             <div class="ml-6 my-3">
@@ -96,15 +79,8 @@
                     <MudNavLink Href="add-post" Icon="@Icons.Material.Filled.PostAdd" Match="NavLinkMatch.All">
                         Add Post
                     </MudNavLink>
-                    <MudNavLink Href="posts-list" Icon="@Icons.Material.Filled.Shop" Match="NavLinkMatch.All">
+                    <MudNavLink Href="posts-list" Icon="@Icons.Material.Filled.ViewList" Match="NavLinkMatch.All">
                         Posts List
-                    </MudNavLink>
-                </Authorized>
-            </AuthorizeView>
-            <AuthorizeView Roles="Administrator">
-                <Authorized>
-                    <MudNavLink Href="users-list" Icon="@Icons.Material.Filled.Person" Match="NavLinkMatch.All">
-                        User List
                     </MudNavLink>
                 </Authorized>
             </AuthorizeView>
